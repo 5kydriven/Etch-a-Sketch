@@ -17,5 +17,11 @@
 # Add ons
 <p>Transform the behavior of a square when interacting with the mouse by introducing a series of modifications.</p>
 
-Rather than a simple color change from black to white, each interaction should randomize the square’s RGB value entirely.
-Additionally, implement a progressive darkening effect where each interaction adds 10% more black or color to the square. The objective is to achieve a completely black square only after ten interactions.
+<ol>
+  <li>
+    Rather than a simple color change from black to white, each interaction should randomize the square’s RGB value entirely.
+  </li>
+  <li>
+    Additionally, implement a progressive darkening effect where each interaction adds 10% more black or color to the square. The objective is to achieve a completely black square only after ten interactions.    
+  </li>
+</ol>
